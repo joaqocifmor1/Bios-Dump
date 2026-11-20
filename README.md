@@ -1,16 +1,9 @@
 # Bios-Dump
-Hello! I'm a spanish youtuber and content creator and i love to tinker with pcs, lately I fixed a lot of computers and some of them needed a bios reflash.
-sadly, today most people put bios dumps on paid web services and i dont like that. 
-so.... in this github repository i will put bios dumps (or mods of bios) of the pcs that i would get for FREE, some from the hours of searching on the internet and some of my dumps of bios.
-if you found this useful, a sub for my channel is the best you can do ;)
+Buenas, quizás no sea ordenado, pero no es IA ni sitios basura de puros avisos, en resumen, hago mantenimiento a muchos dispositivos y a veces actualizar las Bios es un dolor de cabeza porque no hay archivos en internet de manera fácil,links caídos, wayback machine no tiene, etc.
+Entonces acá dejo mis avances a medida que algo se vuelva jodido, si algún otro archivo fue también muy difícil puedo incluirlo.
 
+Hasta el momento deje esto algo de lado, pero bueno, a alguien le servirá quizás.
 
-
-https://www.youtube.com/@Joaqocifmor/videos
-
-
-
-
-
-goodbye!
+Nuevas adiciones:
+Toshiba Qosmio x775 sp7 102L (Que dolor de cabeza fue encontrarlo...)
 
