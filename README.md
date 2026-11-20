@@ -5,5 +5,5 @@ Entonces acá dejo mis avances a medida que algo se vuelva jodido, si algún otr
 Hasta el momento deje esto algo de lado, pero bueno, a alguien le servirá quizás.
 
 Nuevas adiciones:
-Toshiba Qosmio x775 sp7 102L (Que dolor de cabeza fue encontrarlo...)
+Toshiba Qosmio x775 sp7 102L V2.1 (Que dolor de cabeza fue encontrarlo...)
 
